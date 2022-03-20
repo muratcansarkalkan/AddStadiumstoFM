@@ -35,6 +35,11 @@ This tutorial explains how to get the latest custom 3D stadiums to your game.
     
 </ol>
 
+<h3>Contact:</h3>
+
+<ul>
+  <li><b><a href="mailto:muratcansarkalkan@gmail.com">E-mail</a></b>
+</ul>
 <h3>Extra links that could be useful:</h3>
 
 <ul>
