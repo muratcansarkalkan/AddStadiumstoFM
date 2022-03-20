@@ -25,6 +25,16 @@ This tutorial explains how to get the latest custom 3D stadiums to your game.
   <li>Press <kbd>Enter</kbd>, then the script will start adding stadiums</li>
 </ol>
 
+<h3>Troubleshooting:</h3>
+
+<ol>
+  <li><b>Q: </b>I can't do the step 2. It gives an error of <code>The term "pip" is not recognized as the name of a cmdlet, function, script file, or executable program.</code>
+    <br></br>
+    <b>A: </b>Add Python to PATH variable. <a href="https://www.educative.io/edpresso/how-to-add-python-to-path-variable-in-windows">Here's how.</a>
+  </li>
+    
+</ol>
+
 <h3>Extra links that could be useful:</h3>
 
 <ul>
