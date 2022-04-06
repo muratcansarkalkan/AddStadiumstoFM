@@ -25,6 +25,8 @@ This tutorial explains how to get the latest custom 3D stadiums to your game.
   <li>Press <kbd>Enter</kbd>, then the script will start adding stadiums</li>
 </ol>
 
+<h3>Optional:</h3>
+<ul><li>You can use <b>extracttoolspecific.py</b> if you don't want to extract everything, you can just input a country name and only extract its stadiums.</li></ul>
 <h3>Troubleshooting:</h3>
 
 <ol>
